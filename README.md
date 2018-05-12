@@ -1,4 +1,4 @@
-this script try to find your files on AB, it will download torrents and search inside each torrent file
+this script try to find your files on AB, it will download .torrents and search inside each .torrent file
 if you don't use filter, if you use it, it'll try to filter by fansub/group and resolution.
 
 usage:
